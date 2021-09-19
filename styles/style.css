@@ -1,0 +1,95 @@
+#hide-page{
+  background-color: rgb(202, 199, 210);
+  height: 70vh;
+  weight: 100vh;
+  color: black;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.a{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+
+#sep{
+  border-style: solid;
+  border-color: blue;
+  display: flex;
+  justify-content: center;
+}
+
+.italic{
+  font-style: italic;
+}
+
+#moola{
+  width: 200px;
+  visibility:visible;
+}
+#moola2{
+  width: 200px;
+  visibility:visible;
+}
+.moola3{
+  width: 70px;
+  visibility:visible;
+}
+.navbar{
+    background-color: #ffff;
+    position: fixed;
+    width: 100vw;
+    top:0;
+    
+ 
+}
+
+.navbar a{
+    float: left;
+    color: black;
+    text-align: center;
+  padding: 24px 16px;
+  text-decoration: none;
+  font-size: 17px;
+
+}
+
+.navbar a:hover {
+    background-color: rgba(138, 132, 132, 0.571);
+    color: white;
+  }
+  
+  /* Add a color to the active/current link */
+  .navbar a.active {
+    background-color:rgb(57, 52, 52);
+    color: white;
+  }
+
+#rotate-page{
+    background-color: rgb(96, 50, 213);
+    height: 70vh;
+    weight: 100vh;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#div-res li{
+  display: flex;
+  align-items: center;
+}
+
+#mooler-page{
+  height: 70vh;
+  weight: 100vh;
+  color: black;
+
+}
+#mooler-page h1{
+ font-style: oblique;
+}
